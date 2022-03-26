@@ -166,6 +166,7 @@ Recipe Section
     position: relative;
     left: 400px;
     right: auto;
+    bottom: 10px;
     border-radius: 5px;
 }
 
