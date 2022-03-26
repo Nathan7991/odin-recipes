@@ -53,8 +53,19 @@ Navigation
 =============
 */
 
+nav {
+    position: relative;
+    width: 400px;
+    left: 800px;
+}
+
+.navigation-list {
+    width: 500px;
+}
+
 nav .navigation-list li {
     display: inline-block;
+    margin-right: 5px;
 }
 
 nav .navigation-list a {
