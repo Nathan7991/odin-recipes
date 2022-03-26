@@ -53,7 +53,51 @@ Navigation
 =============
 */
 
+nav .navigation-list li {
+    display: inline-block;
+}
 
+nav .navigation-list a {
+    text-decoration: none;
+    color: #000;
+}
+
+nav .navigation-list a:hover {
+    animation-name: hover;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hover {
+    0% {
+        color: #000;
+        text-decoration: underline
+    }
+
+    20% {
+        color: rgb(22, 22, 22);
+        text-decoration: underline;
+    }
+
+    40% {
+        color: rgb(37, 37, 37);
+        text-decoration: underline;
+    }
+
+    60% {
+        color: rgb(43, 43, 43);
+        text-decoration: underline;
+    }
+
+    80% {
+        color: rgb(36, 36, 36);
+        text-decoration: underline;
+    }
+
+    100% {
+        color: rgb(22, 22, 22);
+        text-decoration: underline;
+    }
+}
 
 /*
 ===========
