@@ -139,6 +139,18 @@ h3 {
     height: auto;
     width: 50px;
     display: inline;
+    animation: fadeIn 5s;
+    position: relative;
+    left: 1050px;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
 
 .recipe-name {
