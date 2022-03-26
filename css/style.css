@@ -55,8 +55,11 @@ Navigation
 
 nav {
     position: relative;
-    width: 400px;
-    left: 800px;
+    width: 480px;
+    border-radius: 2px;
+    left: 1100px;
+    bottom: 60px;
+    background-color: #fff;
 }
 
 .navigation-list {
