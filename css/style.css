@@ -126,6 +126,12 @@ h3 {
     display: inline;
 }
 
+.recipe-name {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
 /*
 ===========
 Recipe Section
