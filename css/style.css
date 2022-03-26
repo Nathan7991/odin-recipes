@@ -118,6 +118,7 @@ Individual Elements
 h3 {
     font-size: 16px;
     font-weight: bold;
+    text-shadow: 2px 3px 4px rgba(0,0,0, 0.3);
 }
 
 .logo {
@@ -131,6 +132,11 @@ h3 {
     font-weight: bold;
     text-align: center;
     text-decoration: underline;
+}
+
+.text-before-value {
+    font-weight: bold;
+    text-shadow: 2px 3px 4px rgba(0,0,0, 0.3);
 }
 
 /*
