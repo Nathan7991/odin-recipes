@@ -108,3 +108,20 @@ Body
 body {
     background-image: url(../images/background.jpg);
 }
+
+/*
+===========
+Recipe Section
+===========
+*/
+
+#recipe-container {
+    background-color: #fff;
+    height: auto;
+    width: 500px;
+}
+
+.image {
+    height: auto;
+    width: 400px;
+}
