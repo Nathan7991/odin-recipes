@@ -145,6 +145,7 @@ Recipe Section
     position: relative;
     left: 400px;
     right: auto;
+    border-radius: 5px;
 }
 
 .image {
