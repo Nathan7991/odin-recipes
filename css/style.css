@@ -136,6 +136,9 @@ Recipe Section
     background-color: #fff;
     height: auto;
     width: 800px;
+    position: relative;
+    left: 400px;
+    right: auto;
 }
 
 .image {
