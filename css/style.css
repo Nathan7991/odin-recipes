@@ -126,7 +126,7 @@ Recipe Section
 #recipe-container {
     background-color: #fff;
     height: auto;
-    width: 500px;
+    width: 800px;
 }
 
 .image {
@@ -134,4 +134,7 @@ Recipe Section
     width: 400px;
     border-radius: 5px;
     box-shadow: 2px 2px 5px 5px rgba(0,0,0, 0.3);
+    position: relative;
+    right: 200px;
+    left: 200px;
 }
